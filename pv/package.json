@@ -1,0 +1,21 @@
+{
+    "name": "simulated",
+    "version": "1.0.0",
+    "description": "刷pv",
+    "main": "app.js",
+    "scripts": {
+        "start": "node --use_strict app.js"
+    },
+    "author": "Mao",
+    "license": "Apache-2.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jinshuilai/simulated-login.git"
+    },
+    "dependencies": {
+        "superagent": "",
+        "nodemailer": "",
+        "later": "",
+        "async": ""
+    }
+}

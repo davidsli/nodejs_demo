@@ -1,0 +1,15 @@
+{
+    "name": "yuemei",
+    "version": "1.0.0",
+    "description": "悦美评论机",
+    "main": "app.js",
+    "scripts": {
+        "start": "node --use_strict app.js"
+    },
+    "author": "Mao",
+    "dependencies": {
+        "async": "",
+        "cheerio": "^1.0.0-rc.2",
+        "superagent": ""
+    }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "advisory",
+  "version": "1.0.0",
+  "description": "模拟多人咨询",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "mao",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^3.8.1"
+  }
+}

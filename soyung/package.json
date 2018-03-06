@@ -1,0 +1,14 @@
+{
+    "name": "soyung",
+    "version": "1.0.0",
+    "description": "修改新氧的密码和头像",
+    "main": "app.js",
+    "scripts": {
+        "start": "node --use_strict app.js"
+    },
+    "author": "Mao",
+    "dependencies": {
+        "async": "",
+        "superagent": ""
+    }
+}
